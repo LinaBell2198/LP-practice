@@ -9,13 +9,13 @@ header {
   width: 100%;
 }
 
-.header_icons {
+.header_contents {
   display: flex;
   width: 100%;
 }
 
 
-.menu_icon {
+.header_icon {
   margin: 15px 0 15px 30px;
 }
 
@@ -44,6 +44,10 @@ header {
 
 .contact_btn a:hover {
   color: #333;
+}
+
+.menu_btn {
+  display: none;
 }
 
 .inner {
